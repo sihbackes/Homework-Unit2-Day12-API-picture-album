@@ -46,3 +46,9 @@ footer p {
     font-size: 3.5rem;
   }
 }
+
+.image-carousel {
+  object-fit: cover;
+  object-position: 0 10%;
+  height: 350px;
+}
